@@ -5,4 +5,5 @@ This is a password generator that is for the sole purpose of testing any kind of
 -Things still to come: 
   1. Remove characters if character amount is exceeded to add suggestions
   2. Password manager (stores all passwords to respective accounts)
-  3. Reminder to reset passwords 
+  3. Reminder to reset passwords
+  4. Find dictionary words that run 4 characters in the entered input and recommends not using it such password
