@@ -9,3 +9,4 @@ This is a password generator that is for the sole purpose of testing any kind of
   4. Find dictionary words that run 4 characters in the entered input and recommends not using it such password
 
 ### Password Generator
+![passgen pic](https://user-images.githubusercontent.com/20329150/28965697-391bdd2c-78c7-11e7-81f1-9fd49279077e.png)
