@@ -548,7 +548,8 @@ public class PassManager extends JFrame {
                 {
                     for(int i = 0; i < accountContainer.getSize(); i++)
                     {
-                        writer.print("\nAccount: " + accountContainer.getElementAt(i) + "\tPassword: "+ passwordContainer.getElementAt(i));
+                        writer.print("\nAccount: " + accountContainer.getElementAt(i) + "  Password: "+ passwordContainer.getElementAt(i));
+                        writer.println();
                     }
 
                     JOptionPane.showMessageDialog(null, "Exporting complete!"
