@@ -21,9 +21,10 @@ User ability to export data into txt file
 
 
 ## Things still to come: 
-  1.Encryption when txt file is exported
-  2.Import txt file containing accounts and passwords (decryption)
-  3.Reminder function to reset passwords
+
+  1. Encryption when txt file is exported
+  2. Import txt file containing accounts and passwords (decryption)
+  3. Reminder function to reset passwords
   4. Find dictionary words that run 4 characters in the entered input and recommends not using it such password
 
 
