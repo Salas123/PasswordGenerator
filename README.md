@@ -26,5 +26,6 @@ User ability to export data into txt file
   2. Import txt file containing accounts and passwords (decryption)
   3. Reminder function to reset passwords
   4. Find dictionary words that run 4 characters in the entered input and recommending users to not use such password
+  5. Display adaptability for other OS'
 
 
